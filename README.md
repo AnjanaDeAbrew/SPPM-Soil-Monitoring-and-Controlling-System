@@ -28,28 +28,22 @@ Soil monitoring and controlling system has been developed to adopt precision agr
 
 <table border="0">
   <tr>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/Screenshot_1655025312.png" height="570" width="270" ></td>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/Screenshot_1655025319.png" height="570" width="270" ></td>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/Screenshot_1655025331.png" height="570" width="270" ></td>
+    <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/f94c0618-6ae2-43d8-9457-e8777594aac7" height="570" width="270" ></td>
+    <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/08e694d0-7b14-4381-b5d5-efa6c057efef" height="570" width="270" ></td>
+  <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/b49e068d-dd03-44e9-a4f3-3e850e42e94e" height="570" width="270" ></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553285.png" height="570" width="270" ></td>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553290.png" height="570" width="270" ></td>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553294.png" height="570" width="270" ></td>
+    <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/0fc5be4f-7fdb-4a0a-94c4-133bbb127daa" height="570" width="270" ></td>
+    <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/435e4d61-7965-4d4a-b846-15818c8cbdd8" height="570" width="270" ></td>
+  <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/0671edea-2268-452d-9f52-06a63cc258b4" height="570" width="270" ></td>
   </tr>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553297.png" height="570" width="270" ></td>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553364.png" height="570" width="270" ></td>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553369.png" height="570" width="270" ></td>
+  <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/17191a00-3db2-4e82-a7a5-0cc5d8099910" height="570" width="270" ></td>
+    <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/f4836b58-e3bf-4dd7-98f1-9180686b2f04" height="570" width="270" ></td>
+  <td><img src="https://github.com/AnjanaDeAbrew/SPPM-Soil-Monitoring-and-Controlling-System/assets/102325586/9a5ff502-1d20-4d30-a88d-d39381ae7921" height="570" width="270" ></td>
   </tr>
-  </tr>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553378.png" height="570" width="270" ></td>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553364.png" height="570" width="270" ></td>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553381.png" height="570" width="270" ></td>
-  </tr>
-  </tr>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553389.png" height="570" width="270" ></td>
-    <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655553416.png" height="570" width="270" ></td>
-  <td><img src="https://github.com/Lakshan099/Soil-Monitoring-and-Controlling-System/blob/main/MoblieApp/Soil_NPK_App/ss/app/Screenshot_1655554348.png" height="570" width="270" ></td>
-  </tr>
+
+  
 </table><br>
+
+
 
